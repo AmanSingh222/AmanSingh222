@@ -6,7 +6,7 @@
 - Strong focus on clean architecture, performance optimization, and scalable systems  
 - Worked on domains like EV mobility, education, restaurant systems, and real-time apps  
 - Passionate about building smooth, user-friendly, and production-ready mobile experiences
-- 
+  
 ## 🛠️ Tech Stack
 **Languages:** Kotlin, Java  
 **Android:** MVVM, Jetpack Compose, XML, Android SDK  
@@ -22,7 +22,7 @@
 - Implemented **real-time communication using MQTT** in production apps  
 - Integrated **payments, maps, push notifications, and analytics** in scalable Android systems  
 - Experience in **multi-country support, API optimization, and Play Store deployment**
-- 
+  
 ## 🎓 Education
 🎓 Master’s in Computer Applications (MCA)  
 Maharshi Dayanand University, Rohtak  
